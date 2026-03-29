@@ -1,46 +1,35 @@
-# Opportunity Radar
-
-AI-powered FinTech dashboard that pipelines 6 algorithmic agents. 
-
-## Setup Instructions
-1. Navigate into this folder `cd opportunity-radar`
-2. Install dependencies: `pip install -r backend/requirements.txt`
-3. Launch with Docker: `docker-compose up --build`
-   *If you do not have docker, launch backend with `cd backend && uvicorn main:app --port 8000` and frontend with `cd frontend && python -m http.server 80`*
-4. Access at `http://localhost` (or the respective port you launched on).
-
-Set `OPENAI_API_KEY` for OpenAI model features.
-
 # Opportunity Radar 🚀
 
-AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-confidence opportunities.
+AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-confidence financial opportunities.
 
 ---
-## 🚀 How to Run the Project
 
-1. Navigate to frontend folder:
+## 🚀 Quick Demo
+
+1. Navigate to frontend:
    cd frontend
 
-2. Start a local server:
+2. Start local server:
    python -m http.server 5500
 
 3. Open in browser:
    http://127.0.0.1:5500/frontend/index.html
 
-4. Click "Run AI Scan" to see the output
+4. Click **Run AI Scan** to execute the AI pipeline
+
 ---
 
 ## 🖥️ What You Will See
 
-- AI Agent Pipeline visualization
+- AI Agent Pipeline visualization  
 - Signals from:
-  - Technical indicators
-  - Sentiment analysis
-  - Filing data
+  - Technical indicators  
+  - Sentiment analysis  
+  - Filing data  
 - Final classification:
-  - Bullish
-  - Bearish
-  - High Conviction opportunities
+  - Bullish  
+  - Bearish  
+  - High Conviction opportunities  
 
 ---
 
@@ -56,11 +45,9 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Demo
 
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Python (FastAPI)  
-- AI: OpenAI API  
+![Dashboard](DEMO.png)
 
 ---
 
