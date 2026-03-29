@@ -1,7 +1,7 @@
 import time
 import os
 
-def run_demo():
+def run_DEMO():
     print("🚀 Launching Opportunity Radar Demo...")
     time.sleep(1)
     if not os.getenv("OPENAI_API_KEY"):
