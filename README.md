@@ -16,18 +16,18 @@ Set `OPENAI_API_KEY` for OpenAI model features.
 AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-confidence opportunities.
 
 ---
+## 🚀 How to Run the Project
 
-## 🚀 Quick Demo
-
-1. Open frontend:
+1. Navigate to frontend folder:
    cd frontend
+
+2. Start a local server:
    python -m http.server 5500
 
-2. Open in browser:
-   http://127.0.0.1:5500
+3. Open in browser:
+   http://127.0.0.1:5500/frontend/index.html
 
-3. Click **Run AI Scan** to execute the AI pipeline
-
+4. Click "Run AI Scan" to see the output
 ---
 
 ## 🖥️ What You Will See
