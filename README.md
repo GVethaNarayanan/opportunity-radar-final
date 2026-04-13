@@ -19,6 +19,16 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
 
 ---
 
+## ✨ Key Features
+
+- 🔍 Job & Opportunity Tracking System  
+- 📊 Intelligent Data Analysis  
+- 📌 Organized Dashboard for Opportunities  
+- ⚡ Fast and User-Friendly Interface  
+- 📁 Structured Data Management
+
+---
+
 ## 🖥️ What You Will See
 
 - AI Agent Pipeline visualization  
@@ -31,6 +41,15 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
   - Bearish  
   - High Conviction opportunities  
 
+---
+
+## 🧠 Tech Stack
+
+- Python  
+- Flask / PyQt (based on your project)  
+- HTML, CSS  
+- JSON / Data Processing
+  
 ---
 
 ## ⚙️ How It Works
