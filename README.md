@@ -4,11 +4,11 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
 
 ---
 
-🌍 Problem Statement
+## 🌍 Problem Statement
 
-Managing multiple opportunities manually can be overwhelming and inefficient. Important details can be missed, and tracking progress becomes difficult.
+Analyzing financial markets manually is time-consuming and inefficient. With large volumes of data and rapid market changes, users struggle to identify reliable investment opportunities.
 
-Opportunity Radar solves this by providing a centralized and structured system to track and analyze opportunities effectively.
+This project addresses the problem by developing an AI-powered FinTech dashboard that uses a multi-agent system to analyze data and highlight high-confidence financial opportunities in real-time.
 
 ---
 
