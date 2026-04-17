@@ -4,28 +4,22 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
 
 ---
 
-## 🚀 Quick Demo
+🌍 Problem Statement
 
-1. Navigate to frontend:
-   cd frontend
+Managing multiple opportunities manually can be overwhelming and inefficient. Important details can be missed, and tracking progress becomes difficult.
 
-2. Start local server:
-   python -m http.server 5500
-
-3. Open in browser:
-   http://127.0.0.1:5500/frontend/index.html
-
-4. Click **Run AI Scan** to execute the AI pipeline
+Opportunity Radar solves this by providing a centralized and structured system to track and analyze opportunities effectively.
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 
-- 🔍 Job & Opportunity Tracking System  
-- 📊 Intelligent Data Analysis  
-- 📌 Organized Dashboard for Opportunities  
-- ⚡ Fast and User-Friendly Interface  
-- 📁 Structured Data Management
+ -🔍 Track jobs, internships, and opportunities
+ - 📊 Organized data management system
+ -📌 Easy-to-use dashboard
+ -⚡ Fast and responsive interface
+ -📁 Structured storage of opportunity details
+ - 🧠 Smart filtering and organization
 
 ---
 
@@ -43,24 +37,22 @@ AI-powered FinTech dashboard that uses a multi-agent pipeline to detect high-con
 
 ---
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 
-- Python  
-- Flask / PyQt (based on your project)  
-- HTML, CSS  
-- JSON / Data Processing
+  -Python
+  -Flask / PyQt (based on implementation)
+  -HTML, CSS
+  -JSON / Data Handling
   
 ---
 
-## ⚙️ How It Works
+⚙️ How It Works
 
-1. Data ingestion from multiple sources  
-2. AI agents analyze:
-   - Technical signals  
-   - Sentiment  
-   - Filings  
-3. Scoring engine combines signals  
-4. Final AI synthesis generates insights  
+1.User adds opportunity details
+2.System stores data in structured format
+3.Data is processed and organized
+4.Dashboard displays opportunities clearly
+5.User tracks and manages progress efficiently 
 
 ---
 
@@ -91,6 +83,13 @@ This demonstrates how the AI pipeline identifies high-confidence opportunities.
 - 🌐 Web deployment  
 - 📱 Mobile support  
 - 📊 Advanced analytics dashboard
+
+---
+
+🔧 Installation
+git clone https://github.com/GVethaNarayanan/opportunity-radar-final.git
+cd opportunity-radar-final
+pip install -r requirements.txt
 
 ---
 
